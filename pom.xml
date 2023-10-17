@@ -51,7 +51,7 @@
   </dependencies>
 
     <build>
-        <finalName>Basic-website/finalName>
+        <finalName>Basic-website</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
